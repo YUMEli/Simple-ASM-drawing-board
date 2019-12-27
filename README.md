@@ -14,4 +14,4 @@ J draws a color block at the cursor
 C clear canvas            
 P exit application
 
-![](path/pic.png)
+![Image text](https://raw.githubusercontent.com/YUMEli/Simple-ASM-drawing-board/master/pic.png)
