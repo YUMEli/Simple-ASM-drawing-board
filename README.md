@@ -14,4 +14,4 @@ J draws a color block at the cursor
 C clear canvas            
 P exit application
 
-![Image text](https://s2.ax1x.com/2019/12/27/lVMggK.png)
+![](path/pic.png)
