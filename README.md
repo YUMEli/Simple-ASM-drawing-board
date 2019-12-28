@@ -1,16 +1,16 @@
 # Simple-ASM-drawing-board
 ASM course homework
 
-W controls the cursor to move up one space            
-S control cursor moves down one grid            
-A controls the cursor to move one space to the left            
-D control the cursor to move one grid to the right            
-1 set the brush to red            
-2 set the brush to green            
-3 set the brush to blue            
+W controls the cursor to move up
+S control cursor moves down
+A controls the cursor to move left
+D control the cursor to move right
+1 set the brush color to red            
+2 set the brush color to green            
+3 set the brush color to blue            
 4 set the brush color to white            
-0 eraser            
-J draws a color block at the cursor            
+0 eraser (set the brush color to black)
+J draws a color block at the cursor
 C clear canvas            
 P exit application
 
